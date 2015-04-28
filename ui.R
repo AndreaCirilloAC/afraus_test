@@ -1,0 +1,4 @@
+shinyUI(
+bootstrapPage(
+plotOutput(newplot)
+))
